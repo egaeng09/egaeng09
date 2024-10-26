@@ -28,9 +28,6 @@
   </a>
 </p>
 <br>
-<div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=egaeng09&hide_progress=true">
-</div>
 <br>
 <div align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=egaeng09">
