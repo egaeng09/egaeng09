@@ -1,7 +1,7 @@
-<h3 align="center">
+<h3>
   Tech Stack :blue_book:
 </h3>
-<p align="center">
+<p>
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -16,10 +16,10 @@
   <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 <br>
-<h3 align="center">
+<h3>
   About Me :pray:
 </h3>
-<p align="center">
+<p>
   <a href="https://siso-gaeng.tistory.com/">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
   </a>
@@ -27,13 +27,3 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </p>
-<br>
-<br>
-<div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=egaeng09">
-</div>
-<br>
-<div align="center">
-  <img src = "https://streak-stats.demolab.com?user=egaeng09&mode=weekly">
-</div>
-<br>
